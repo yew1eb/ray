@@ -5,6 +5,7 @@ Essential reference for AI agents working on the Ray distributed computing frame
 ## Extended Documentation
 
 - **[Architecture Analysis](ARCHITECTURE_ANALYSIS.md)** — deep-dive into layers, data flow, component internals
+- **[Performance Optimizations](PERFORMANCE_OPTIMIZATIONS.md)** — performance analysis and optimization opportunities
 - **[Newbie Contributing Guide](CONTRIBUTING_GUIDE_FOR_NEWBIES.md)** — setup, finding issues, PR workflow
 - **[Improvement Opportunities](IMPROVEMENT_OPPORTUNITIES.md)** — concrete tasks: docs, error messages, tests, refactors
 - **[Performance Analysis](PERFORMANCE_ANALYSIS.md)** — performance bottlenecks and optimization opportunities: scheduler, serialization, object store, Ray Data, gRPC
